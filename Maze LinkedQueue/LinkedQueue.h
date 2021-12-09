@@ -1,7 +1,7 @@
 #pragma once
 #include "Node.h"
 
-class LinkedQueue {
+class LinkedQueue{
 public:
 	LinkedQueue()
 		: front(NULL), rear(NULL)
